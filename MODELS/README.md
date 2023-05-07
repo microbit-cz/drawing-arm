@@ -10,5 +10,5 @@
 - [ ] Knihovna pro kreslení
 - [ ] Dokumentace
 - [x] Návrh prototypu
-- [ ] Zapojení elektroniky
-- [ ] Dostavění držáku na tužku (šroub a závit)
+- [x] Zapojení elektroniky
+- [x] Dostavění držáku na tužku (šroub a závit)
