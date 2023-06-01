@@ -1,31 +1,31 @@
+# Project Title
 
-> Open this page at [https://kraus-ivan.github.io/stardrawmegalink-microbit/](https://kraus-ivan.github.io/stardrawmegalink-microbit/)
+Short project description here.
 
-## Use as Extension
+## Table of Contents
 
-This repository can be added as an **extension** in MakeCode.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [License](#license)
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/kraus-ivan/stardrawmegalink-microbit** and import
+## Installation
 
-## Edit this project ![Build status badge](https://github.com/kraus-ivan/stardrawmegalink-microbit/workflows/MakeCode/badge.svg)
+Describe the installation process here.
 
-To edit this repository in MakeCode.
+## Usage
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/kraus-ivan/stardrawmegalink-microbit** and click import
+Show some examples of how to use your project.
 
-## Blocks preview
+## Contribution
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+If you want others to contribute to your project, explain how they can do that.
 
-![A rendered view of the blocks](https://github.com/kraus-ivan/stardrawmegalink-microbit/raw/master/.github/makecode/blocks.png)
+## License
 
-#### Metadata (used for search, rendering)
+Indicate the type of license your project uses.
 
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+## Language
+
+- [English](./README.md)
+- [Čeština](./README.cs.md)
