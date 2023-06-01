@@ -3,9 +3,7 @@
 - [Čeština](./README.cs.md)
 
 
-# Název Projektu
-
-Zde krátce popište svůj projekt.
+# StardrawMegalink - Robotické kreslící rameno
 
 ## Obsah
 
@@ -14,19 +12,15 @@ Zde krátce popište svůj projekt.
 - [Přispění](#přispění)
 - [Licence](#licence)
 
-## Instalace
+## Úvod
+Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene s podstavou. Je určen k testování inverzní kinematiky. Softwarovou část zajišťuje mikropočítač Micro:bit s vlastně napsanou knihovnou pro digitální serva ovládající ramena.
 
-Popište proces instalace zde.
+## Sestavení a zprovoznění
 
-## Použití
+### Ramena
+Je potřeba vytisknout na 3D tiskárně dvě ramena. Odkazy ke stažení ramen v .STL formátu: 1. rameno, 2. rameno. V případě vlastní úpravy ramen jsou dostupné i ramena v .SLDPRT formátu: 1. rameno, 2. rameno. Doporučený materiál pro tisk je PLA.
 
-Ukažte několik příkladů, jak používat váš projekt.
+### Podstava s víkem a kostkou pro uchycení USB
 
-## Přispění
 
-Pokud chcete, aby ostatní přispívali do vašeho projektu, vysvětlete, jak to mohou udělat.
-
-## Licence
-
-Uveďte, jaký typ licence váš projekt používá.
 
