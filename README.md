@@ -1,3 +1,8 @@
+## Language
+- [English](./README.md)
+- [Čeština](./README.cs.md)
+
+
 # Project Title
 
 Short project description here.
