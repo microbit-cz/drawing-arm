@@ -1,3 +1,8 @@
+## Jazyk
+- [English](./README.md)
+- [Čeština](./README.cs.md)
+
+
 # Název Projektu
 
 Zde krátce popište svůj projekt.
@@ -25,7 +30,3 @@ Pokud chcete, aby ostatní přispívali do vašeho projektu, vysvětlete, jak to
 
 Uveďte, jaký typ licence váš projekt používá.
 
-## Jazyk
-
-- [English](./README.md)
-- [Čeština](./README.cs.md)
