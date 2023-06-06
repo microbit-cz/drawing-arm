@@ -11,8 +11,10 @@
 - [Tisk](#Tisk)
 - [Software](#Software)
 
+
 ## Úvod
 Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene s podstavou. Je určen k testování inverzní kinematiky. Softwarovou část zajišťuje mikropočítač Micro:bit s vlastně napsanou knihovnou pro digitální serva ovládající ramena.
+
 
 ## Tisk
 Níže zmíněné komponenty vytiskněte na **3D tiskárně**.
@@ -29,6 +31,7 @@ V případě potřeby vlastní úpravy ramen jsou dostupné i komponenty v .SLDP
 ### Držák pera
 Odkaz na stažení držáku pera v .STL formátu: [Držák pera](./MODELS/models/STARDRAWMEGALINK_pen-grabber.stl).
 V případě potřeby vlastní úpravy držáku je dostupný držák i v .SLDPRT formátu: [Držák pera](./MODELS/solidworks_models/STARDRAWMEGALINK_pen-grabber.SLDPRT).
+
 
 ## Software
 Softwarovou část zajišťuje prostředí microsoft makecode pro micro:bit https://makecode.microbit.org/.
