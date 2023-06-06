@@ -3,7 +3,7 @@
 - [https://img.shields.io/badge/CZ-Czech%20language-brightgreen](./README.cs.md)
 
 
-# StardrawMegalink - Robotické kreslící rameno ⛩️🦾達
+# StardrawMegalink - Robotické kreslící rameno :tokyo_tower::mechanical_arm::clamp:
 
 ## Obsah
 
