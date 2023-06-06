@@ -8,7 +8,7 @@
 ## Obsah
 
 - [Úvod](#Úvod)
-- [Potřebné vybavení](#Potřebné vybavení)
+- [Potřebné vybavení](#Potřebné%20vybavení)
 - [Tisk](#Tisk)
 - [Složení](#Složení)
 - [Software](#Software)
