@@ -47,6 +47,10 @@ Odkaz na stažení držáku pera v .STL formátu: [Držák pera](./MODELS/models
 V případě potřeby vlastní úpravy držáku je dostupný držák i v .SLDPRT formátu: [Držák pera](./MODELS/solidworks_models/STARDRAWMEGALINK_pen-grabber.SLDPRT).
 
 
+## Složení
+
+
+
 ## Software
 Softwarovou část zajišťuje prostředí microsoft makecode pro micro:bit https://makecode.microbit.org/.
 
