@@ -15,7 +15,7 @@
 ## Úvod
 Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene s podstavou. Je určen k testování inverzní kinematiky. Softwarovou část zajišťuje mikropočítač Micro:bit s vlastně napsanou knihovnou pro digitální serva ovládající ramena.
 
-## Sestavení a zprovoznění
+## Tisk
 
 ### Ramena
 Je potřeba vytisknout na 3D tiskárně dvě ramena. Odkazy ke stažení ramen v .STL formátu: 1. rameno, 2. rameno. V případě vlastní úpravy ramen jsou dostupné i ramena v .SLDPRT formátu: 1. rameno, 2. rameno. Doporučený materiál pro tisk je PLA.
