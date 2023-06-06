@@ -7,9 +7,9 @@
 
 ## Obsah
 
-- [Úvod](##Úvod)
-- [Tisk](##Tisk)
-- [Software](##Software)
+- [Úvod ⭐](#Úvod ⭐)
+- [Tisk 🖨️](#Tisk 🖨️)
+- [Software </>](#Software </>)
 
 ## Úvod ⭐
 Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene s podstavou. Je určen k testování inverzní kinematiky. Softwarovou část zajišťuje mikropočítač Micro:bit s vlastně napsanou knihovnou pro digitální serva ovládající ramena.
