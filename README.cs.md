@@ -50,6 +50,6 @@ V případě potřeby vlastní úpravy držáku je dostupný držák i v .SLDPRT
 ## Software
 Softwarovou část zajišťuje prostředí microsoft makecode pro micro:bit https://makecode.microbit.org/.
 
-Pro tento projekt byla vytvořená externí [pxt-smooth-servo](https://github.com/Kraus-Ivan/pxt-smooth-servo) knihovna napsaná v *Typescript*. 
+Pro tento projekt byla vytvořená externí [pxt-smooth-servo](https://github.com/Kraus-Ivan/pxt-smooth-servo) knihovna napsaná v *Typescript*. Knihovna zajišťuje ovládání serv a mikroserva.
 Knihovna má vlastní dokumentaci v souboru [main.ts](https://github.com/Kraus-Ivan/pxt-smooth-servo/blob/master/main.ts) s kódem.
 Implementace této knihovny je popsaná v [readme.md](https://github.com/Kraus-Ivan/pxt-smooth-servo/blob/master/README.md).
