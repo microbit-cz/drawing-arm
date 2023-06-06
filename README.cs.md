@@ -1,6 +1,6 @@
 ## Jazyk
 - [English](./README.md)
-- [https://img.shields.io/badge/CZ-Czech%20language-brightgreen](./README.cs.md)
+- [Czech](./README.cs.md)
 
 
 # StardrawMegalink - Robotické kreslící rameno :tokyo_tower::mechanical_arm::clamp:
@@ -9,7 +9,7 @@
 
 - [Úvod](#Úvod)
 - [Potřebné vybavení](#Potřebné-vybavení)
-- [Tisk](#Tisk)
+- [Tisk](#Tisk:printer:)
 - [Složení](#Složení)
 - [Software](#Software)
 
@@ -32,7 +32,7 @@ Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene
 - [Micro USB adaptér](https://www.aliexpress.com/item/1005002500157420.html)
 - Nářadí pro prodloužení napájecích kabelů a prodlužovací kabel pro mikroservo
 
-## Tisk
+## Tisk:printer:
 Níže zmíněné komponenty vytiskněte na **3D tiskárně**.
 Doporučený materiál pro tisk všech komponent je **PLA**.
 
@@ -58,4 +58,21 @@ Softwarovou část zajišťuje prostředí microsoft makecode pro micro:bit http
 
 Pro tento projekt byla vytvořená externí [pxt-smooth-servo](https://github.com/Kraus-Ivan/pxt-smooth-servo) knihovna napsaná v *Typescript*. Knihovna zajišťuje ovládání serv a mikroserva.
 Knihovna má vlastní dokumentaci v souboru [main.ts](https://github.com/Kraus-Ivan/pxt-smooth-servo/blob/master/main.ts) s kódem.
-Implementace této knihovny je popsaná v [readme.md](https://github.com/Kraus-Ivan/pxt-smooth-servo/blob/master/README.md).
+Způsob přidání tohoto rozšíření do makecode projektu je popsaný v [readme.md](https://github.com/Kraus-Ivan/pxt-smooth-servo/blob/master/README.md).
+### Implementace této třídy:
+
+```typescript
+basic.forever(function () {
+    basic.pause(50);
+	smoothServo.SmoothServo.update();
+});
+
+let servo1 = smoothServo.SmoothServo.createServo(AnalogPin.P0);
+let servo2 = smoothServo.SmoothServo.createServo(AnalogPin.P1);
+
+input.onButtonPressed(Button.A,() => {
+    servo1.moveTo(2000);
+    console.log(servo1.buffer());
+    console.log(servo1.toString());
+});
+```
