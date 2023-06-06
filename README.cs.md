@@ -18,7 +18,7 @@ Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene
 ## Tisk
 
 ### Ramena
-Je potřeba vytisknout na 3D tiskárně dvě ramena. Odkazy ke stažení ramen v .STL formátu: [1. rameno](./MODELS/models/STARDRAWMEGALINK_arm-1.STL), 2. rameno. V případě vlastní úpravy ramen jsou dostupné i ramena v .SLDPRT formátu: 1. rameno, 2. rameno. Doporučený materiál pro tisk je PLA.
+Je potřeba vytisknout na 3D tiskárně dvě ramena. Odkazy ke stažení ramen v .STL formátu: [1. rameno](./MODELS/models/STARDRAWMEGALINK_arm-1.STL), [2. rameno](./MODELS/models/STARDRAWMEGALINK_arm-2.STL). V případě vlastní úpravy ramen jsou dostupné i ramena v .SLDPRT formátu: 1. rameno, 2. rameno. Doporučený materiál pro tisk je PLA.
 
 ### Podstava s víkem a kostkou pro uchycení USB
 
