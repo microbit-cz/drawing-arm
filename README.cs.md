@@ -31,4 +31,4 @@ Softwarovou část zajišťuje prostředí microsoft makecode pro micro:bit http
 
 Pro tento projekt byla vytvořená externí [pxt-smooth-servo](https://github.com/Kraus-Ivan/pxt-smooth-servo) knihovna napsaná v Typescript. 
 Knihovna má vlastní dokumentaci v souboru [main.ts](https://github.com/Kraus-Ivan/pxt-smooth-servo/blob/master/main.ts) s kódem.
-Implementace této knihovny je popsaná v [readme.md](https://github.com/Kraus-Ivan/pxt-smooth-servo/README.md)
+Implementace této knihovny je popsaná v [readme.md](https://github.com/Kraus-Ivan/pxt-smooth-servo/blob/master/README.md))
