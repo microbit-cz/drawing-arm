@@ -1,7 +1,7 @@
 ## Jazyk
 - [English](./README.md)
 - [Čeština](./README.cs.md)
-
+https://img.shields.io/badge/CZ-Czech%20language-brightgreen
 
 # StardrawMegalink - Robotické kreslící rameno
 
