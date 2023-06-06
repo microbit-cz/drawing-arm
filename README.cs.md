@@ -26,6 +26,10 @@ V případě potřeby vlastní úpravy ramen jsou dostupné i ramena v .SLDPRT f
 Odkazy ke stažení podstavy s víkem a kostkou v .STL formátu: [Podstava](./MODELS/models/STARDRAWMEGALINK_base.STL), [Víko](./MODELS/models/STARDRAWMEGALINK_base--cover.STL), [Kostka](./MODELS/models/STARDRAWMEGALINK_usb--block.STL). 
 V případě potřeby vlastní úpravy ramen jsou dostupné i komponenty v .SLDPRT formátu: [Podstava](./MODELS/solidworks_models/STARDRAWMEGALINK_base.SLDPRT), [Víko](./MODELS/solidworks_models/STARDRAWMEGALINK_base--cover.SLDPRT), [Kostka](./MODELS/models/STARDRAWMEGALINK_usb--block.SLDPRT).
 
+### Držák pera
+Odkaz na stažení držáku pera v .STL formátu: [Držák pera](./MODELS/models/STARDRAWMEGALINK_pen-grabber.stl).
+V případě potřeby vlastní úpravy držáku je dostupný držák i v .SLDPRT formátu: [Držák pera](./MODELS/solidworks_models/STARDRAWMEGALINK_pen-grabber.stl).
+
 ## Software
 Softwarovou část zajišťuje prostředí microsoft makecode pro micro:bit https://makecode.microbit.org/.
 
