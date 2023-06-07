@@ -62,7 +62,7 @@ The library has its own documentation in the [main.ts](https://github.com/Kraus-
 The way to add this extension to the project's macrocode is described in [readme.md](https://github.com/Kraus-Ivan/pxt-smooth-servo/blob/master/README.md).
 ### Implementation of this class:
 
-``typescript
+```typescript
 basic.forever(function () {
     basic.pause(50);
 	smoothServo.SmoothServo.update();
@@ -76,4 +76,5 @@ input.onButtonPressed(Button.A,() => {
     console.log(servo1.buffer());
     console.log(servo1.toString());
 });
-```
+``````typescript
+
