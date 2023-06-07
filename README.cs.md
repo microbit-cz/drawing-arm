@@ -9,7 +9,7 @@
 
 - [Úvod](#Úvod)
 - [Potřebné vybavení](#Potřebné-vybavení)
-- [Tisk](#Tisk:printer:)
+- [Tisk](#tiskprinter)
 - [Složení](#Složení)
 - [Software](#Software)
 
