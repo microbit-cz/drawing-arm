@@ -76,5 +76,4 @@ input.onButtonPressed(Button.A,() => {
     console.log(servo1.buffer());
     console.log(servo1.toString());
 });
-``````typescript
 
