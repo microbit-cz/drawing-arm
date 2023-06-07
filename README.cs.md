@@ -1,6 +1,6 @@
 ## Jazyk
-- [English](./README.md)
-- [Czech](./README.cs.md)
+[![En](https://img.shields.io/badge/lang-en-blue)](https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/README.md)
+[![Cs](https://img.shields.io/badge/lang-cs-red)](https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/README.cs.md)
 
 
 # StardrawMegalink - Robotické kreslící rameno :tokyo_tower::mechanical_arm::clamp:
