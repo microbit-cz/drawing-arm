@@ -18,7 +18,7 @@
 Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene s podstavou. Je určen k testování inverzní kinematiky. Softwarovou část zajišťuje mikropočítač Micro:bit s vlastně napsanou knihovnou pro digitální serva ovládající ramena.
 
 
-## Potřebné vybavení
+## Potřebné vybavení a cena
 - 3D tiskárna s filamentem (doporučeno PLA) cca 400 gramů o tiskové ploše alespoň 18×18 cm **(cena cca 42 Kč)**
 - Matice k zatížení (12 matic M14) **(cena cca ... Kč)**
 - 8 magnetů (4 menší: průmer 6 mm, tloušťka 1.3mm, 4 větší: průměr 6 mm, tloušťka 2.6 mm) **(cena cca 40 Kč)**
