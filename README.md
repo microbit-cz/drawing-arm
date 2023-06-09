@@ -82,7 +82,7 @@ Screw the second arm to the servo on the first arm first using the supplied serv
 
 #### 8. Cable management
 
-***If you have folded the robotic arm***
+***Voila you have folded the robotic arm***
 
 ## Software
 The software part is provided by the microsoft makecode environment for micro:bit https://makecode.microbit.org/.
