@@ -23,6 +23,7 @@ Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene
 - Matice k zatížení (12 matic M14) **(cena cca ... Kč)**
 - 8 magnetů (4 menší: průmer 6 mm, tloušťka 1.3mm, 4 větší: průměr 6 mm, tloušťka 2.6 mm) **(cena cca 40 Kč)**
 - Páječka 
+- Vteřinové lepidlo
 - 5× [závitové vložky](https://eshop.sharplayers.cz/p/zavitove-vlozky-m3?gclid=CjwKCAjwsvujBhAXEiwA_UXnACFnVo32Ehh4C0-VzjGK4OnDROmtyTXOmKyot6yBNGM73W3FBH5FuBoCpv0QAvD_BwE#1555) **(cena cca 18 Kč)**
 - 2× [servo SG90](https://www.aliexpress.com/item/4000903254039.html) **(cena cca 26 Kč)**
 - Drobné lineární [mikroservo](https://www.aliexpress.com/item/1005004339409489.html?pdp_npi=2%40dis%21USD%21US%20%248.43%21US%20%248.43%21%21%21%21%21%402103242516849089387838247e4354%2112000028817829408%21btf&_t=pvid:decffea6-7b81-4ac8-801d-0f80278e7e29&afTraceInfo=1005004339409489__pc__pcBridgePPC__xxxxxx__1684908939&spm=a2g0o.ppclist.product.mainProduct) **(cena cca 185 Kč)**
@@ -35,26 +36,53 @@ Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene
  
 ***Celková cena: okolo 1388 Kč***
 
-## Tisk:printer:
+
+## Sestavení a tisk
+
+### Tisk
 Níže zmíněné komponenty vytiskněte na **3D tiskárně**.
 Doporučený materiál pro tisk všech komponent je **PLA**.
 
-### Ramena
+#### Ramena
 Odkazy ke stažení ramen v .STL formátu: [1. rameno](./MODELS/models/STARDRAWMEGALINK_arm-1.STL), [2. rameno](./MODELS/models/STARDRAWMEGALINK_arm-2.STL).
 V případě potřeby vlastní úpravy ramen jsou dostupné i ramena v .SLDPRT formátu: [1. rameno](./MODELS/solidworks_models/STARDRAWMEGALINK_arm-1.SLDPRT), [2. rameno](./MODELS/solidworks_models/STARDRAWMEGALINK_arm-2.SLDPRT).
 
-### Podstava s víkem a kostkou pro uchycení USB
-Odkazy ke stažení podstavy s víkem a kostkou v .STL formátu: [Podstava](./MODELS/models/STARDRAWMEGALINK_base.STL), [Víko](./MODELS/models/STARDRAWMEGALINK_base--cover.STL), [Kostka](./MODELS/models/STARDRAWMEGALINK_usb--block.STL). 
-V případě potřeby vlastní úpravy ramen jsou dostupné i komponenty v .SLDPRT formátu: [Podstava](./MODELS/solidworks_models/STARDRAWMEGALINK_base.SLDPRT), [Víko](./MODELS/solidworks_models/STARDRAWMEGALINK_base--cover.SLDPRT), [Kostka](./MODELS/models/STARDRAWMEGALINK_usb--block.SLDPRT).
-
-### Držák pera
+#### Držák pera
 Odkaz na stažení držáku pera v .STL formátu: [Držák pera](./MODELS/models/STARDRAWMEGALINK_pen-grabber.stl).
 V případě potřeby vlastní úpravy držáku je dostupný držák i v .SLDPRT formátu: [Držák pera](./MODELS/solidworks_models/STARDRAWMEGALINK_pen-grabber.SLDPRT).
 
+#### Podstava s víkem a kostkou pro uchycení USB
+Odkazy ke stažení podstavy s víkem a kostkou v .STL formátu: [Podstava](./MODELS/models/STARDRAWMEGALINK_base.STL), [Víko](./MODELS/models/STARDRAWMEGALINK_base--cover.STL), [Kostka](./MODELS/models/STARDRAWMEGALINK_usb--block.STL). 
+V případě potřeby vlastní úpravy ramen jsou dostupné i komponenty v .SLDPRT formátu: [Podstava](./MODELS/solidworks_models/STARDRAWMEGALINK_base.SLDPRT), [Víko](./MODELS/solidworks_models/STARDRAWMEGALINK_base--cover.SLDPRT), [Kostka](./MODELS/models/STARDRAWMEGALINK_usb--block.SLDPRT).
+**Pozor!** je nutné ve vašem programu ovládajícím tisk na 3D tiskárně nastavit breakpoint na pozici těsně před zatisknutím místa pro vložení magnetů a zatisknutím místa pro vložení matic během tisku.
 
-## Složení
+### Sestavení
+Pokud máte vytisknuté všechny komponenty, do podstavy zapuštěné magnetky a matice a zajištěné všechny díly, můžete pokračovat k sestavení.
 
+#### 1. Zapájení závitových vložek
+Nahřejte páječku asi na ... °C. Vezměte podstavu a držák pera. Do otvorů v podstavě vložte závitové vložky. Postupně na každou vložku položte špičkou páječku, čekejte dokud se nezačne filament lehce tavit a vložka se do něj začne zapouštět. V tento moment odeberte páječku a dotlačte vložku do zarovnané pozice pomocí tupého předmětu (například konec fixu). Stejný proces proveďte i u zapuštění vložky do držáku pera. **Po zapuštění počkejte minimálně 5 minut pro stuhnutí**
 
+#### 2. Zasazení micro USB adaptéru
+Zasaďte micro USB adaptér do otvoru zevnitř podstvy. Poté vezměte vytisknutou kostku, na ni na stranách naneste vteřinové lepidlo a kostku vsuňte za micro USB adaptér tak, aby fixovala micro USB adaptér v otvoru.
+
+#### 3. Přišroubování rozšiřující micro:bit desky
+Vezměte vhodné šroubky a přišroubujte s nimi rozšiřující micro:bit desku k podstavě do zapuštěných vložek.
+
+#### 4. Zašroubování serv do podstavy a ramene
+Vezměte si servo motory a pomocí k nim přibalených šroubků jeden přišroubujte do otvoru v podstavě. Druhý servo motor přišroubujte do otvoru v ramenu 1.
+
+#### 5. Přišroubování lineárního motoru
+Vezměte lineární motor a pomocí šroubků ho přišroubujte k držáku pera ze zadní strany.
+
+#### 6. Přišroubování madel serv
+Přišroubujte pomocí přiložených šroubků k servu madla do zdířek v ramenou.
+
+#### 7. Přišroubujte ramena k sobě a k podstavě
+Přišroubujte nejprve druhé rameno k servu na prvním rameni pomocí přiloženého šroubku k servu. Poté přišroubujte první rameno k servu v podstavě.
+
+#### 8. Cable management
+
+***Voila máte složené robotické rameno***
 
 ## Software
 Softwarovou část zajišťuje prostředí microsoft makecode pro micro:bit https://makecode.microbit.org/.
