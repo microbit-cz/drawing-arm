@@ -32,7 +32,7 @@ Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene
 - Micro USB kabel **(cena cca 20 Kč)**
 - [Micro USB adaptér](https://www.aliexpress.com/item/1005002500157420.html) **(cena cca 50 Kč)**
 - Nářadí pro prodloužení napájecích kabelů a prodlužovací kabel pro mikroservo 
-- 
+
 ## Tisk:printer:
 Níže zmíněné komponenty vytiskněte na **3D tiskárně**.
 Doporučený materiál pro tisk všech komponent je **PLA**.
