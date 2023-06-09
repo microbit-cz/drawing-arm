@@ -19,9 +19,9 @@ Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene
 
 
 ## Potřebné vybavení
-- 3D tiskárna s filamentem (doporučeno PLA) cca 400 gramů o tiskové ploše alespoň 18×18 cm **(cena cca ... Kč)**
+- 3D tiskárna s filamentem (doporučeno PLA) cca 400 gramů o tiskové ploše alespoň 18×18 cm **(cena cca 42 Kč)**
 - Matice k zatížení (12 matic M14) **(cena cca ... Kč)**
-- 8 magnetů (4 menší: průmer 6 mm, tloušťka 1.3mm, 4 větší: průměr 6 mm, tloušťka 2.6 mm) **(cena cca ... Kč)**
+- 8 magnetů (4 menší: průmer 6 mm, tloušťka 1.3mm, 4 větší: průměr 6 mm, tloušťka 2.6 mm) **(cena cca 40 Kč)**
 - Páječka 
 - 5× [závitové vložky](https://eshop.sharplayers.cz/p/zavitove-vlozky-m3?gclid=CjwKCAjwsvujBhAXEiwA_UXnACFnVo32Ehh4C0-VzjGK4OnDROmtyTXOmKyot6yBNGM73W3FBH5FuBoCpv0QAvD_BwE#1555) **(cena cca 18 Kč)**
 - 2× [servo SG90](https://www.aliexpress.com/item/4000903254039.html) **(cena cca 26 Kč)**
@@ -32,6 +32,7 @@ Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene
 - Micro USB kabel **(cena cca 20 Kč)**
 - [Micro USB adaptér](https://www.aliexpress.com/item/1005002500157420.html) **(cena cca 50 Kč)**
 - Nářadí pro prodloužení napájecích kabelů a prodlužovací kabel pro mikroservo 
+***Celková cena: okolo 1388 Kč***
 
 ## Tisk:printer:
 Níže zmíněné komponenty vytiskněte na **3D tiskárně**.
