@@ -31,7 +31,8 @@ Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene
 ](https://campaign.aliexpress.com/wow/gcp/tesla-pc-new/index?UTABTest=aliabtest377151_530968&src=google&src=google&albch=shopping&acnt=494-037-6276&slnk=&plac=&mtctp=&albbt=Google_7_shopping&albagn=888888&isSmbAutoCall=false&needSmbHouyi=false&albcp=19374404636&albag=&trgt=&crea=en32919813638&netw=x&device=c&albpg=&albpd=en32919813638&gad=1&gclid=CjwKCAjw1YCkBhAOEiwA5aN4AWF3JHqWqZg_oN6JqZttoZp75ZzobjrEqrCE3kOS40wbZjK0dLMC1BoCTrcQAvD_BwE&gclsrc=aw.ds&aff_fcid=ddc743c6ce104a35bf6536f50c1ff099-1686125398647-02721-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=ddc743c6ce104a35bf6536f50c1ff099-1686125398647-02721-UneMJZVf&terminal_id=284860dbb5e14a15ad06232ddc3eb903&wh_weex=true&wx_navbar_hidden=true&wx_navbar_transparent=true&ignoreNavigationBar=true&wx_statusbar_hidden=true&bt_src=ppc_direct_lp&scenario=pcBridgePPC&productId=32919813638&OLP=1085100208_f_group2&o_s_id=1085100208) **(cena cca 257 Kč)**
 - Micro USB kabel **(cena cca 20 Kč)**
 - [Micro USB adaptér](https://www.aliexpress.com/item/1005002500157420.html) **(cena cca 50 Kč)**
-- Nářadí pro prodloužení napájecích kabelů a prodlužovací kabel pro mikroservo 
+- Nářadí pro prodloužení napájecích kabelů a prodlužovací kabel pro mikroserv0o
+ 
 ***Celková cena: okolo 1388 Kč***
 
 ## Tisk:printer:
