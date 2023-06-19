@@ -57,15 +57,19 @@ V případě potřeby vlastní úpravy ramen jsou dostupné i komponenty v .SLDP
 **Pozor!** je nutné ve vašem programu ovládajícím tisk na 3D tiskárně nastavit breakpoint na pozici těsně před zatisknutím místa pro vložení magnetů a zatisknutím místa pro vložení matic během tisku.
 
 
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_074527.jpg" width="350" height="350">
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_074527.jpg" width="300" height="350">
 
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_113205.jpg" width="350" height="350">
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_113205.jpg" width="300" height="350">
 
 ### Sestavení
 Pokud máte vytisknuté všechny komponenty, do podstavy zapuštěné magnetky a matice a zajištěné všechny díly, můžete pokračovat k sestavení.
 
 #### 1. Zapájení závitových vložek
-Nahřejte páječku asi na ... °C. Vezměte podstavu a držák pera. Do otvorů v podstavě vložte závitové vložky. Postupně na každou vložku položte špičkou páječku, čekejte dokud se nezačne filament lehce tavit a vložka se do něj začne zapouštět. V tento moment odeberte páječku a dotlačte vložku do zarovnané pozice pomocí tupého předmětu (například konec fixu). Stejný proces proveďte i u zapuštění vložky do držáku pera. **Po zapuštění počkejte minimálně 5 minut pro stuhnutí**
+Nahřejte páječku asi na 220 °C. Vezměte podstavu a držák pera. Do otvorů v podstavě vložte závitové vložky. Postupně na každou vložku položte špičkou páječku, čekejte dokud se nezačne filament lehce tavit a vložka se do něj začne zapouštět. V tento moment odeberte páječku a dotlačte vložku do zarovnané pozice pomocí tupého předmětu (například konec fixu). Stejný proces proveďte i u zapuštění vložky do držáku pera. **Po zapuštění počkejte minimálně 5 minut pro stuhnutí**
+
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230616_092746.jpg" width="300" height="350">
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230616_092806.jpg" width="300" height="350">
+
 
 #### 2. Zasazení micro USB adaptéru
 Zasaďte micro USB adaptér do otvoru zevnitř podstvy. Poté vezměte vytisknutou kostku, na ni na stranách naneste vteřinové lepidlo a kostku vsuňte za micro USB adaptér tak, aby fixovala micro USB adaptér v otvoru.
@@ -73,14 +77,29 @@ Zasaďte micro USB adaptér do otvoru zevnitř podstvy. Poté vezměte vytisknut
 #### 3. Přišroubování rozšiřující micro:bit desky
 Vezměte vhodné šroubky a přišroubujte s nimi rozšiřující micro:bit desku k podstavě do zapuštěných vložek.
 
+<img src="<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_074527.jpg" width="300" height="350">
+" width="300" height="350">
+
 #### 4. Zašroubování serv do podstavy a ramene
 Vezměte si servo motory a pomocí k nim přibalených šroubků jeden přišroubujte do otvoru v podstavě. Druhý servo motor přišroubujte do otvoru v ramenu 1.
 
+<img src="<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230615_113624.jpg" width="300" height="350">
+" width="300" height="350">
+
 #### 5. Přišroubování lineárního motoru
-Vezměte lineární motor a pomocí šroubků ho přišroubujte k držáku pera ze zadní strany.
+Vezměte lineární motor a pomocí šroubků ho přišroubujte k držáku pera ze zadní strany. Dejte si pozor, aby byl zašroubován směrem jako na obrázku.
+
+<img src="<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230615_113752.jpg" width="300" height="350">
+" width="300" height="350">
 
 #### 6. Přišroubování madel serv
 Přišroubujte pomocí přiložených šroubků k servu madla do zdířek v ramenou.
+
+<img src="<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230615_112823.jpg" width="300" height="350">
+" width="300" height="350">
+
+<img src="<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230615_113159.jpg" width="300" height="350">
+" width="300" height="350">
 
 #### 7. Přišroubujte ramena k sobě a k podstavě
 Přišroubujte nejprve druhé rameno k servu na prvním rameni pomocí přiloženého šroubku k servu. Poté přišroubujte první rameno k servu v podstavě.
