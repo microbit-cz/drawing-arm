@@ -35,6 +35,8 @@ Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene
  
 ***Celková cena: okolo 1388 Kč***
 
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/sroubky.png" width="300" height="400">
+Podobné vruty a šroub je nutné sehnat pro sestavení. Rozměry jsou udány v poměru šířka/délka. Stříbrný vrut (druhý zleva) je dodán v balení se servy.
 
 ## Sestavení a tisk
 
