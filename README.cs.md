@@ -68,7 +68,7 @@ Pokud máte vytisknuté všechny komponenty, do podstavy zapuštěné magnetky a
 Nahřejte páječku asi na 220 °C. Vezměte podstavu a držák pera. Do otvorů v podstavě vložte závitové vložky. Postupně na každou vložku položte špičkou páječku, čekejte dokud se nezačne filament lehce tavit a vložka se do něj začne zapouštět. V tento moment odeberte páječku a dotlačte vložku do zarovnané pozice pomocí tupého předmětu (například konec fixu). Stejný proces proveďte i u zapuštění vložky do držáku pera. **Po zapuštění počkejte minimálně 5 minut pro stuhnutí**
 
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230616_092746.jpg" width="300" height="350">
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230616_092806.jpg" width="300" height="350">
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230616_092806.jpg" width="350" height="350">
 
 
 #### 2. Zasazení micro USB adaptéru
