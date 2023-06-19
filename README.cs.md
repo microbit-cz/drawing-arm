@@ -34,10 +34,10 @@ Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene
 - [Micro USB adaptér](https://www.aliexpress.com/item/1005002500157420.html) **(cena cca 50 Kč)**
 - Nářadí pro prodloužení napájecích kabelů a prodlužovací kabel pro mikroserv0o
  
-***Celková cena: okolo 1388 Kč***
+***Celková cena: okolo 1388 Kč s micro:bitem***
 
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230615_111352.jpg" width="400" height="350">
-Podobné vruty a šroub je nutné sehnat pro sestavení. Rozměry jsou udány v poměru šířka/délka. Stříbrný vrut (druhý zleva) je dodán v balení se servy.
+Podobné vruty a šroub je nutné sehnat pro sestavení. Rozměry jsou udány v poměru šířka/délka (milimetry). Stříbrný vrut (druhý zleva) je dodán v balení se servy.
 
 ## Sestavení a tisk
 
