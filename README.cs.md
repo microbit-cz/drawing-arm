@@ -57,9 +57,9 @@ V případě potřeby vlastní úpravy ramen jsou dostupné i komponenty v .SLDP
 **Pozor!** je nutné ve vašem programu ovládajícím tisk na 3D tiskárně nastavit breakpoint na pozici těsně před zatisknutím místa pro vložení magnetů a zatisknutím místa pro vložení matic během tisku.
 
 
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_074527.jpg" width="350" height="350">
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_074527.jpg" width="350" height="500">
 
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_113205.jpg" width="350" height="350">
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_113205.jpg" width="350" height="500">
 
 ### Sestavení
 Pokud máte vytisknuté všechny komponenty, do podstavy zapuštěné magnetky a matice a zajištěné všechny díly, můžete pokračovat k sestavení.
