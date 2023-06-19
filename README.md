@@ -37,7 +37,7 @@ The project aims to create an experimental prototype of a drawing arm with a bas
 ***Total price: around 64.5 USD with micro:bit***
 
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230615_111352.jpg" width="400" height="350">
-Similar screws and bolt must be obtained for assembly. Dimensions are given in width/length ratio. The silver screw (second from the left) is supplied in the package with the servos.
+Similar screws and bolt must be obtained for assembly. Dimensions are given in width/length ratio (milimeters). The silver screw (second from the left) is supplied in the package with the servos.
 
 ## Assembly and printing
 
