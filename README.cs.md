@@ -8,10 +8,9 @@
 ## Obsah
 
 - [Úvod](#Úvod)
-- [Potřebné vybavení](#Potřebné-vybavení)
-- [Tisk](#tiskprinter)
-- [Složení](#Složení)
-- [Software](#Software)
+- [Potřebné vybavení](#potřebné-vybavení-a-cena)
+- [Sestavení a tisk](#sestavení-a-tisk)
+- [Software](#software)
 
 
 ## Úvod
