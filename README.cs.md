@@ -8,7 +8,7 @@
 ## Obsah
 
 - [Úvod](#Úvod)
-- [Potřebné vybavení](#potřebné-vybavení-a-cena)
+- [Potřebné vybavení a cena](#potřebné-vybavení-a-cena)
 - [Sestavení a tisk](#sestavení-a-tisk)
 - [Software](#software)
 
