@@ -107,9 +107,9 @@ Screw the servo handles into the arm sockets using the screws provided.
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230615_113159.jpg" width="300" height="350">
 </div>
 
-#### 7. Screw the arms together and to the base
-Screw the second arm to the servo on the first arm first, using the included servo screw. Then screw the first arm to the servo in the base.
-
+#### 7. Screw the arms together and to the base and add the pen holder
+Screw the second arm to the servo on the first arm first using the included servo screw. Then screw the first arm to the servo in the base.
+Also, add the pen holder to the second arm and drip hot glue between the tip of the linear servo and the second arm.
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/IMG_2264.JPG" width="450" height="350">
 
 ***Voila you have folded the robotic arm***
