@@ -23,13 +23,13 @@ The project aims to create an experimental prototype of a drawing arm with a bas
 - 8 magnets (4 smaller: diameter 6 mm, thickness 1.3 mm, 4 larger: diameter 6 mm, thickness 2.6 mm) **(price approx. 2 USD)**
 - Soldering iron 
 - Instant glue
-- 5× [thread inserts](https://eshop.sharplayers.cz/p/zavitove-vlozky-m3?gclid=CjwKCAjwsvujBhAXEiwA_UXnACFnVo32Ehh4C0-VzjGK4OnDROmtyTXOmKyot6yBNGM73W3FBH5FuBoCpv0QAvD_BwE#1555) **(price approx. 1 USD)**
+- 5× [thread inserts](https://eshop.sharplayers.cz/p/zavitove-vlozky-m3) **(price approx. 1 USD)**
 - 2× [SG90 servo](https://www.aliexpress.com/item/4000903254039.html) **(price approx. 1.25 USD)**
 - 2× Plastic handle for attaching the arm to the servo (included with the servo)
 - Drobné lineární [mikroservo](https://www.aliexpress.com/item/1005004339409489.html) **(cena cca 8.5 USD)**
 - [Micro:bit](https://www.amazon.com/GeeekPi-Micro-Original-Batteries-Programming/dp/B0BB6T186P/ref=sr_1_1_sspa?keywords=micro+bit&qid=1686042679&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExR1hMUzlaRkk4M0ZZJmVuY3J5cHRlZElkPUEwMzU5NDcxMjZDVzZWNjFaVkRFVCZlbmNyeXB0ZWRBZElkPUEwNTc5NTI5QVlLVFU0VEMwN1MyJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)**(price approx. 34.5 USD)**
 - [Expansion board for microbit
-](https://campaign.aliexpress.com/wow/gcp/tesla-pc-new/index?UTABTest=aliabtest377151_530968&src=google&src=google&albch=shopping&acnt=494-037-6276&slnk=&plac=&mtctp=&albbt=Google_7_shopping&albagn=888888&isSmbAutoCall=false&needSmbHouyi=false&albcp=19374404636&albag=&trgt=&crea=en32919813638&netw=x&device=c&albpg=&albpd=en32919813638&gad=1&gclid=CjwKCAjw1YCkBhAOEiwA5aN4AWF3JHqWqZg_oN6JqZttoZp75ZzobjrEqrCE3kOS40wbZjK0dLMC1BoCTrcQAvD_BwE&gclsrc=aw.ds&aff_fcid=ddc743c6ce104a35bf6536f50c1ff099-1686125398647-02721-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=ddc743c6ce104a35bf6536f50c1ff099-1686125398647-02721-UneMJZVf&terminal_id=284860dbb5e14a15ad06232ddc3eb903&wh_weex=true&wx_navbar_hidden=true&wx_navbar_transparent=true&ignoreNavigationBar=true&wx_statusbar_hidden=true&bt_src=ppc_direct_lp&scenario=pcBridgePPC&productId=32919813638&OLP=1085100208_f_group2&o_s_id=1085100208) **(cena cca 11 USD)**
+](https://campaign.aliexpress.com/wow/gcp/tesla-pc-new/index) **(cena cca 11 USD)**
 - Micro USB cable **(price approx. 1 USD)**
 - [Micro USB adapter](https://www.aliexpress.com/item/1005002500157420.html) **(price approx. 2.1 USD)**
 - Power cable extension tool and extension cable for microserv0o
