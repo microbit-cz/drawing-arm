@@ -26,7 +26,7 @@ Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene
 - 5× [závitové vložky](https://eshop.sharplayers.cz/p/zavitove-vlozky-m3?gclid=CjwKCAjwsvujBhAXEiwA_UXnACFnVo32Ehh4C0-VzjGK4OnDROmtyTXOmKyot6yBNGM73W3FBH5FuBoCpv0QAvD_BwE#1555) **(cena cca 18 Kč)**
 - 2× [servo SG90](https://www.aliexpress.com/item/4000903254039.html) **(cena cca 26 Kč)**
 - 2× Plastové madlo pro uchycení ramene na servo (obsaženu k servu)
-- Drobné lineární [mikroservo](https://www.aliexpress.com/item/1005004339409489.html?pdp_npi=2%40dis%21USD%21US%20%248.43%21US%20%248.43%21%21%21%21%21%402103242516849089387838247e4354%2112000028817829408%21btf&_t=pvid:decffea6-7b81-4ac8-801d-0f80278e7e29&afTraceInfo=1005004339409489__pc__pcBridgePPC__xxxxxx__1684908939&spm=a2g0o.ppclist.product.mainProduct) **(cena cca 185 Kč)**
+- Drobné lineární [mikroservo](https://www.aliexpress.com/item/1005004339409489.html) **(cena cca 185 Kč)**
 - [Micro:bit](https://www.amazon.com/GeeekPi-Micro-Original-Batteries-Programming/dp/B0BB6T186P/ref=sr_1_1_sspa) **(cena cca 750 Kč)**
 - [Rozšiřující deska pro microbit
 ](https://www.aliexpress.com/item/32919813638.html) **(cena cca 257 Kč)**
