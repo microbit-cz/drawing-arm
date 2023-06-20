@@ -27,7 +27,7 @@ The project aims to create an experimental prototype of a drawing arm with a bas
 - 2× [SG90 servo](https://www.aliexpress.com/item/4000903254039.html) **(price approx. 1.25 USD)**
 - 2× Plastic handle for attaching the arm to the servo (included with the servo)
 - Drobné lineární [mikroservo](https://www.aliexpress.com/item/1005004339409489.html) **(cena cca 8.5 USD)**
-- [Micro:bit](https://www.amazon.com/GeeekPi-Micro-Original-Batteries-Programming/dp/B0BB6T186P/ref=sr_1_1_sspa?keywords=micro+bit&qid=1686042679&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExR1hMUzlaRkk4M0ZZJmVuY3J5cHRlZElkPUEwMzU5NDcxMjZDVzZWNjFaVkRFVCZlbmNyeXB0ZWRBZElkPUEwNTc5NTI5QVlLVFU0VEMwN1MyJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)**(price approx. 34.5 USD)**
+- [Micro:bit](https://www.amazon.com/GeeekPi-Micro-Original-Batteries-Programming/dp/B0BB6T186P/ref=sr_1_1_sspa)**(price approx. 34.5 USD)**
 - [Expansion board for microbit
 ](https://www.aliexpress.com/item/32919813638.html) **(cena cca 11 USD)**
 - Micro USB cable **(price approx. 1 USD)**
