@@ -58,7 +58,6 @@ Download links for base with lid and cube in .STL format: [Base](./MODELS/models
 If you need to customize the arms, components in .SLDPRT format are also available: [Base](./MODELS/solidworks_models/STARDRAWMEGALINK_base.SLDPRT), [Lid](./MODELS/solidworks_models/STARDRAWMEGALINK_base--cover.SLDPRT), [Cube](./MODELS/models/STARDRAWMEGALINK_usb--block.SLDPRT).
 **Beware!** it is necessary to set the breakpoint in your program controlling printing on the 3D printer to the position just before pressing the magnet insertion point and pressing the nut insertion point during printing.
 
-
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_074527.jpg" width="300" height="350">
 
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_113205.jpg" width="300" height="350">
@@ -76,10 +75,11 @@ Heat the soldering iron to about 220 °C. Take the base and pen holder. Insert t
 #### 2. Inserting the micro USB adapter
 Insert the micro USB adapter into the hole on the inside of the base. Then take the printed cube, apply hot glue to the sides and slide the cube behind the micro USB adapter to fix the micro USB adapter in the hole.
 
+<div>
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230620_100146.jpg" width="300" height="350">
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230620_094711.jpg" width="300" height="350">
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230620_094705.jpg" width="300" height="350">
-
+</div>
 
 #### 3. Screwing in the micro:bit expansion board
 Take the appropriate screws and screw the micro:bit expansion board to the base with them into the recessed inserts.
