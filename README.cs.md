@@ -79,7 +79,7 @@ Zasaďte micro USB adaptér do otvoru zevnitř podstvy. Poté vezměte vytisknut
 #### 3. Přišroubování rozšiřující micro:bit desky
 Vezměte vhodné šroubky a přišroubujte s nimi rozšiřující micro:bit desku k podstavě do zapuštěných vložek.
 
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_074527.jpg" width="300" height="350">
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230616_093503.jpg" width="300" height="350">
 
 #### 4. Zašroubování serv do podstavy a ramene
 Vezměte si servo motory a pomocí k nim přibalených šroubků jeden přišroubujte do otvoru v podstavě. Druhý servo motor přišroubujte do otvoru v ramenu 1.
