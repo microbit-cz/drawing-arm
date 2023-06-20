@@ -3,6 +3,8 @@
 [![En](https://img.shields.io/badge/lang-cs-red)](https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/README.cs.md)
 
 
+Printables: https://www.thingiverse.com/thing:6087701
+
 # StardrawMegalink - Robotic drawing arm :tokyo_tower::mechanical_arm::clamp:
 
 <div>
