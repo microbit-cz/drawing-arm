@@ -3,6 +3,9 @@
 [![Cs](https://img.shields.io/badge/lang-cs-red)](https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/README.cs.md)
 
 
+Thingiverse: https://www.thingiverse.com/thing:6087701
+Printables: https://www.printables.com/model/509500-microbit-robotic-drawing-arm-stardraw-megalink
+
 # StardrawMegalink - Robotické kreslící rameno :tokyo_tower::mechanical_arm::clamp:
 <div>
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/IMG_2264.JPG" >
