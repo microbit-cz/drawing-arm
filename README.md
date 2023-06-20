@@ -79,7 +79,7 @@ Insert the micro USB adapter into the hole on the inside of the base. Then take 
 #### 3. Screwing in the micro:bit expansion board
 Take the appropriate screws and screw the micro:bit expansion board to the base with them into the recessed inserts.
 
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_074527.jpg" width="300" height="350">
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230616_093503.jpg" width="300" height="350">
 
 #### 4. Screw the servos into the base and arm
 Take your servo motors and use the screws provided to screw one into the hole in the base. Screw the other servo motor into the hole in the arm 1.
