@@ -76,6 +76,11 @@ Heat the soldering iron to about 220 °C. Take the base and pen holder. Insert t
 #### 2. Inserting the micro USB adapter
 Insert the micro USB adapter into the hole on the inside of the base. Then take the printed cube, apply hot glue to the sides and slide the cube behind the micro USB adapter to fix the micro USB adapter in the hole.
 
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230620_100146.jpg" width="300" height="350">
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230620_094711.jpg" width="300" height="350">
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230620_094705.jpg" width="300" height="350">
+
+
 #### 3. Screwing in the micro:bit expansion board
 Take the appropriate screws and screw the micro:bit expansion board to the base with them into the recessed inserts.
 
