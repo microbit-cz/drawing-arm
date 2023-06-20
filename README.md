@@ -58,9 +58,10 @@ Download links for base with lid and cube in .STL format: [Base](./MODELS/models
 If you need to customize the arms, components in .SLDPRT format are also available: [Base](./MODELS/solidworks_models/STARDRAWMEGALINK_base.SLDPRT), [Lid](./MODELS/solidworks_models/STARDRAWMEGALINK_base--cover.SLDPRT), [Cube](./MODELS/models/STARDRAWMEGALINK_usb--block.SLDPRT).
 **Beware!** it is necessary to set the breakpoint in your program controlling printing on the 3D printer to the position just before pressing the magnet insertion point and pressing the nut insertion point during printing.
 
+<div>
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_074527.jpg" width="300" height="350">
-
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_113205.jpg" width="300" height="350">
+</div>
 
 ### Assembly
 Once you have all the components printed, magnets and nuts embedded in the base, and all the parts secured, you can proceed to assembly.
@@ -68,9 +69,10 @@ Once you have all the components printed, magnets and nuts embedded in the base,
 #### 1. Soldering the threaded inserts
 Heat the soldering iron to about 220 °C. Take the base and pen holder. Insert the threaded inserts into the holes in the base. One by one, place the tip of the soldering iron on each insert, waiting until the filament begins to melt slightly and the insert begins to embed. At this point, remove the soldering iron and push the insert into an aligned position using a blunt object (such as the end of a marker). Follow the same process for inserting the liner into the pen holder. **After embedding, wait at least 5 minutes to allow for setting**
 
+<div>
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230616_092746.jpg" width="300" height="350">
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230616_092806.jpg" width="350" height="350">
-
+</div>
 
 #### 2. Inserting the micro USB adapter
 Insert the micro USB adapter into the hole on the inside of the base. Then take the printed cube, apply hot glue to the sides and slide the cube behind the micro USB adapter to fix the micro USB adapter in the hole.
@@ -99,9 +101,11 @@ Take the linear motor and use the screws to screw it to the pen holder from the 
 #### 6. Screwing on the servo handles
 Screw the servo handles into the arm sockets using the screws provided.
 
+<div>
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230615_112823.jpg" width="300" height="350">
 
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230615_113159.jpg" width="300" height="350">
+</div>
 
 #### 7. Screw the arms together and to the base
 Screw the second arm to the servo on the first arm first, using the included servo screw. Then screw the first arm to the servo in the base.
