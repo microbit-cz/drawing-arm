@@ -110,7 +110,7 @@ Screw the servo handles into the arm sockets using the screws provided.
 #### 7. Screw the arms together and to the base
 Screw the second arm to the servo on the first arm first, using the included servo screw. Then screw the first arm to the servo in the base.
 
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/IMG_2264.JPG" width="300" height="350">
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/IMG_2264.JPG" width="425" height="350">
 
 ***Voila you have folded the robotic arm***
 
