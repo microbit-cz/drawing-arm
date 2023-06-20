@@ -108,10 +108,11 @@ Přišroubujte pomocí přiložených šroubků k servu madla do zdířek v rame
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230615_113159.jpg" width="300" height="350">
 </div>
 
-#### 7. Přišroubujte ramena k sobě a k podstavě
+#### 7. Přišroubujte ramena k sobě a k podstavě a přidělejte držák pera
 Přišroubujte nejprve druhé rameno k servu na prvním rameni pomocí přiloženého šroubku k servu. Poté přišroubujte první rameno k servu v podstavě.
+Také přidělejte držák pera k druhému rameni a kápněte horké lepidlo mezi špičku lineárního serva a druhého ramene.
 
-#### 8. Cable management
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/IMG_2264.JPG" width="450" height="350">
 
 ***Voila máte složené robotické rameno***
 
