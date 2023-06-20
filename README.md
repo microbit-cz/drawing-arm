@@ -6,7 +6,7 @@
 # StardrawMegalink - Robotic drawing arm :tokyo_tower::mechanical_arm::clamp:
 
 <div>
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/IMG_2264.JPG" width="400" height="300">
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/IMG_2264.JPG" >
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/IMG_2266.JPG" width="400" height="300">
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/IMG_2262.JPG" width="400" height="300">
 </div>
