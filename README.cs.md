@@ -76,6 +76,11 @@ Nahřejte páječku asi na 220 °C. Vezměte podstavu a držák pera. Do otvorů
 #### 2. Zasazení micro USB adaptéru
 Zasaďte micro USB adaptér do otvoru zevnitř podstvy. Poté vezměte vytisknutou kostku, na ni na stranách naneste vteřinové lepidlo a kostku vsuňte za micro USB adaptér tak, aby fixovala micro USB adaptér v otvoru.
 
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230616_093503.jpg" width="300" height="350">
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230616_093503.jpg" width="300" height="350">
+<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230616_093503.jpg" width="300" height="350">
+
+
 #### 3. Přišroubování rozšiřující micro:bit desky
 Vezměte vhodné šroubky a přišroubujte s nimi rozšiřující micro:bit desku k podstavě do zapuštěných vložek.
 
