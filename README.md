@@ -36,7 +36,7 @@ The project aims to create an experimental prototype of a drawing arm with a bas
 - 5× [thread inserts](https://eshop.sharplayers.cz/p/zavitove-vlozky-m3) **(price approx. 1 USD)**
 - 2× [SG90 servo](https://www.aliexpress.com/item/4000903254039.html) **(price approx. 1.25 USD)**
 - 2× Plastic handle for attaching the arm to the servo (included with the servo)
-- Drobné lineární [mikroservo](https://www.aliexpress.com/item/1005004339409489.html) **(cena cca 8.5 USD)**
+- Tiny linear [miniservo](https://www.aliexpress.com/item/1005004339409489.html) **(cena cca 8.5 USD)**
 - [Micro:bit](https://www.amazon.com/GeeekPi-Micro-Original-Batteries-Programming/dp/B0BB6T186P/ref=sr_1_1_sspa)**(price approx. 34.5 USD)**
 - [Expansion board for microbit
 ](https://www.aliexpress.com/item/32919813638.html) **(cena cca 11 USD)**
