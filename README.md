@@ -10,7 +10,7 @@ Printables: https://www.printables.com/model/509500-microbit-robotic-drawing-arm
 
 <div>
 <img src="./images/IMG_2264.JPG" >
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/IMG_2266.JPG" width="400" height="300">
+<img src="/images/IMG_2266.JPG" width="400" height="300">
 <img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/IMG_2262.JPG" width="300" height="350">
 </div>
 
