@@ -1,6 +1,6 @@
 ## Jazyk
-[![En](https://img.shields.io/badge/lang-en-blue)](https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/README.md)
-[![Cs](https://img.shields.io/badge/lang-cs-red)](https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/README.cs.md)
+[![En](https://img.shields.io/badge/lang-en-blue)](/README.md)
+[![Cs](https://img.shields.io/badge/lang-cs-red)](/README.cs.md)
 
 
 Thingiverse: https://www.thingiverse.com/thing:6087701
@@ -8,9 +8,9 @@ Printables: https://www.printables.com/model/509500-microbit-robotic-drawing-arm
 
 # StardrawMegalink - Robotické kreslící rameno :tokyo_tower::mechanical_arm::clamp:
 <div>
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/IMG_2264.JPG" >
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/IMG_2266.JPG" width="400" height="300">
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/IMG_2262.JPG" width="300" height="400">
+<img src="/images/IMG_2264.JPG" >
+<img src="/images/IMG_2266.JPG" width="400" height="300">
+<img src="/images/IMG_2262.JPG" width="300" height="400">
 </div>
 
 
@@ -45,7 +45,7 @@ Projekt má za cíl vytvoření experimentálního prototypu kreslícího ramene
  
 ***Celková cena: okolo 1388 Kč s micro:bitem***
 
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230615_111352.jpg" width="400" height="350">
+<img src="/images/20230615_111352.jpg" width="400" height="350">
 Podobné vruty a šroub je nutné sehnat pro sestavení. Rozměry jsou udány v poměru šířka/délka (milimetry). Stříbrný vrut (druhý zleva) je dodán v balení se servy.
 
 ## Sestavení a tisk
@@ -68,9 +68,9 @@ V případě potřeby vlastní úpravy ramen jsou dostupné i komponenty v .SLDP
 **Pozor!** je nutné ve vašem programu ovládajícím tisk na 3D tiskárně nastavit breakpoint na pozici těsně před zatisknutím místa pro vložení magnetů a zatisknutím místa pro vložení matic během tisku.
 
 <div>
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_074527.jpg" width="300" height="350">
+<img src="/images/20230614_074527.jpg" width="300" height="350">
 
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230614_113205.jpg" width="300" height="350">
+<img src="/images/20230614_113205.jpg" width="300" height="350">
 </div>
 
 ### Sestavení
@@ -80,48 +80,48 @@ Pokud máte vytisknuté všechny komponenty, do podstavy zapuštěné magnetky a
 Nahřejte páječku asi na 220 °C. Vezměte podstavu a držák pera. Do otvorů v podstavě vložte závitové vložky. Postupně na každou vložku položte špičkou páječku, čekejte dokud se nezačne filament lehce tavit a vložka se do něj začne zapouštět. V tento moment odeberte páječku a dotlačte vložku do zarovnané pozice pomocí tupého předmětu (například konec fixu). Stejný proces proveďte i u zapuštění vložky do držáku pera. **Po zapuštění počkejte minimálně 5 minut pro stuhnutí**
 
 <div>
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230616_092746.jpg" width="300" height="350">
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230616_092806.jpg" width="350" height="350">
+<img src="/images/20230616_092746.jpg" width="300" height="350">
+<img src="/images/20230616_092806.jpg" width="350" height="350">
 </div>
 
 #### 2. Zasazení micro USB adaptéru
 Zasaďte micro USB adaptér do otvoru zevnitř podstvy. Poté vezměte vytisknutou kostku, na ni na stranách naneste vteřinové lepidlo a kostku vsuňte za micro USB adaptér tak, aby fixovala micro USB adaptér v otvoru.
 
 <div>
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230620_100146.jpg" width="300" height="350">
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230620_094711.jpg" width="300" height="350">
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230620_094705.jpg" width="300" height="350">	
+<img src="/images/20230620_100146.jpg" width="300" height="350">
+<img src="/images/20230620_094711.jpg" width="300" height="350">
+<img src="/images/20230620_094705.jpg" width="300" height="350">	
 </div>
 
 #### 3. Přišroubování rozšiřující micro:bit desky
 Vezměte vhodné šroubky a přišroubujte s nimi rozšiřující micro:bit desku k podstavě do zapuštěných vložek.
 
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230616_093503.jpg" width="300" height="350">
+<img src="/images/20230616_093503.jpg" width="300" height="350">
 
 #### 4. Zašroubování serv do podstavy a ramene
 Vezměte si servo motory a pomocí k nim přibalených šroubků jeden přišroubujte do otvoru v podstavě. Druhý servo motor přišroubujte do otvoru v ramenu 1.
 
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230615_113624.jpg" width="300" height="350">
+<img src="/images/20230615_113624.jpg" width="300" height="350">
 
 #### 5. Přišroubování lineárního motoru
 Vezměte lineární motor a pomocí šroubků ho přišroubujte k držáku pera ze zadní strany. Dejte si pozor, aby byl zašroubován směrem jako na obrázku.
 
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230615_113752.jpg" width="300" height="350">
+<img src="/images/20230615_113752.jpg" width="300" height="350">
 
 #### 6. Přišroubování madel serv
 Přišroubujte pomocí přiložených šroubků k servu madla do zdířek v ramenou.
 
 <div>
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230615_112823.jpg" width="300" height="350">
+<img src="/images/20230615_112823.jpg" width="300" height="350">
 
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/20230615_113159.jpg" width="300" height="350">
+<img src="/images/20230615_113159.jpg" width="300" height="350">
 </div>
 
 #### 7. Přišroubujte ramena k sobě a k podstavě a přidělejte držák pera
 Přišroubujte nejprve druhé rameno k servu na prvním rameni pomocí přiloženého šroubku k servu. Poté přišroubujte první rameno k servu v podstavě.
 Také přidělejte držák pera k druhému rameni a kápněte horké lepidlo mezi špičku lineárního serva a druhého ramene.
 
-<img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Kraus-Ivan/blob/main/images/IMG_2264.JPG" width="450" height="350">
+<img src="/images/IMG_2264.JPG" width="450" height="350">
 
 ***Voila máte složené robotické rameno***
 
